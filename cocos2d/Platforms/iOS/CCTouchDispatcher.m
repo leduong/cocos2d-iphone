@@ -96,7 +96,7 @@ static CCTouchDispatcher *sharedDispatcher = nil;
 // handlers management
 //
 
-#pragma mark TouchDispatcher - Add Hanlder
+#pragma mark TouchDispatcher - Add Handler
 
 -(void) forceAddHandler:(CCTouchHandler*)handler array:(NSMutableArray*)array
 {
